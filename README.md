@@ -1,41 +1,39 @@
--TABCHI BY SAMIYAR BANG | @BANGER_TEAM
-======================================
-
--راهنمای نصب-
-=============
-
-git clone https://github.com/SAMIYAR-BANG/TABCHI
-
-cd TABCHI
-
+**••TABCHI BANG••**
+-
+**in English**
+-
+--------------
+**••For Installation bot••**
+------------------------
+git clone https://gitlab.com/samiyar-bang/Tabchi-BangV.1.1
+-
+cd cd T*
+--------------
 chmod +x bot
-
+------------
 ./bot install
-
+-------------
 ./bot create
-
+------------
 ./bot 1
-
-cd TABCHI && ./bot 1
-
-***********
--لانچ ربات-
-==========
-
-cd TABCHI
-
+-
+**••For launch••**
+-
+cd T*
+-
 ./bot 1
-
-***********
--اتولانچ-
-=====
-
-cd TABCHI
-
+-
+**••For autolaunch••**
+-
+cd T*
+-
 ./bot autolaunch
-
-⚜️[Developer](https://telegram.me/ghosts_prince)⚜️
-==
-
-🔱[CHANNEL CREATOR](https://telegram.me/banger_team)🔱
-==
+-
+**[•Developer•](https://t.me/Ghosts_PrincE)**
+-
+**[•channel•](https://t.me/NoFooZiTM)**
+-
+**[•News Tabchi and help•](https://t.me/Tabchi_Bang)**
+-
+<img src="http://s8.picofile.com/file/8315594418/photo_%DB%B2%DB%B0%DB%B1%DB%B7_%DB%B1%DB%B2_%DB%B3%DB%B0_%DB%B2%DB%B0_%DB%B3%DB%B0_%DB%B2%DB%B5.jpg" hspace="300" width="300">
+---
