@@ -5,7 +5,7 @@
 --------------
 **••For Installation bot••**
 ------------------------
-git clone https://gitlab.com/samiyar-bang/Tabchi-Bang-En
+git clone https://github.com/samiyar-bang/Tabchi-Bang-En
 -
 cd cd T*
 --------------
