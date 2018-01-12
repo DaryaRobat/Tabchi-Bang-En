@@ -27,7 +27,7 @@ cd T*
 -
 cd T*
 -
-./bot autolaunch
+screen ./bot
 -
 **[•Developer•](https://t.me/Ghosts_PrincE)**
 -
